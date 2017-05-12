@@ -9,5 +9,5 @@ See also the list of [contributors](https://github.com/khriztianmoreno/khriztian
 
 ## License
 
-This project is licensed under Copy Right - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under Copy Right - see the [LICENSE](LICENSE) file for details
 

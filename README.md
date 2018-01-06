@@ -1,13 +1,22 @@
-# khriztianmoreno.github.io
-> Personal website powered by Hexo.io
+# khriztianmoreno
 
-## Authors
+> Personal website
 
-* **Cristian Moreno** - *FullStack JavaScript Developer* - [Github](https://github.com/khriztianmoreno)
+## Build Setup
 
-See also the list of [contributors](https://github.com/khriztianmoreno/khriztianmoreno.github.io/contributors) who participated in this project.
+``` bash
+# install dependencies
+$ npm install # Or yarn install
 
-## License
+# serve with hot reload at localhost:3000
+$ npm run dev
 
-This project is licensed under Copy Right - see the [LICENSE](LICENSE) file for details
+# build for production and launch server
+$ npm run build
+$ npm start
 
+# generate static project
+$ npm run generate
+```
+
+For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).

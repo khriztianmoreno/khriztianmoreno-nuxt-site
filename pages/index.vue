@@ -63,7 +63,7 @@
       BaseWorkExperience
     },
     mounted () {
-
+      this.backToTop()
     },
     methods: {
       /* eslint-disable */

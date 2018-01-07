@@ -14,8 +14,13 @@
   },
   "dependencies": {
     "@nuxtjs/font-awesome": "^1.0.3",
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "moment": "^2.20.1",
     "node-sass": "^4.7.2",
     "nuxt": "^1.0.0-rc11",
+    "request": "^2.83.0",
     "sass-loader": "^6.0.6"
   },
   "devDependencies": {

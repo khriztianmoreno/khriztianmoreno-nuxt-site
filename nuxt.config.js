@@ -1,3 +1,5 @@
+const bodyParser = require('body-parser')
+
 module.exports = {
   /*
   ** Headers of the page
@@ -24,6 +26,12 @@ module.exports = {
   router: {
     linkActiveClass: 'active'
   },
+  serverMiddleware: [
+    // body-parser middleware
+    bodyParser.json(),
+    // Api middleware
+    '~/api'
+  ],
   /*
   ** Customize the progress bar color
   */

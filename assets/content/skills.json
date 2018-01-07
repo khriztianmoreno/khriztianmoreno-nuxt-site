@@ -1,0 +1,66 @@
+[
+  {
+    "name": "HTML",
+    "value": "100%"
+  },
+  {
+    "name": "CSS",
+    "value": "95%"
+  },
+  {
+    "name": "Javascript",
+    "value": "80%"
+  },
+  {
+    "name": "VueJS",
+    "value": "90%"
+  },
+  {
+    "name": "ReactJS",
+    "value": "70%"
+  },
+  {
+    "name": "Angular",
+    "value": "80%"
+  },
+  {
+    "name": "EmberJS",
+    "value": "65%"
+  },
+  {
+    "name": "SaaS",
+    "value": "75%"
+  },
+  {
+    "name": "NodeJS",
+    "value": "75%"
+  },
+  {
+    "name": "ExpressJS",
+    "value": "70%"
+  },
+  {
+    "name": "Git",
+    "value": "70%"
+  },
+  {
+    "name": "Microsft Azure",
+    "value": "65%"
+  },
+  {
+    "name": "React Native",
+    "value": "85%"
+  },
+  {
+    "name": "MongoDB",
+    "value": "70%"
+  },
+  {
+    "name": "PostgreSQL",
+    "value": "70%"
+  },
+  {
+    "name": "Agile Methodologies",
+    "value": "100%"
+  }
+]

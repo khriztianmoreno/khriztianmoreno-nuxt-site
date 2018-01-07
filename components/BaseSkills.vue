@@ -8,67 +8,26 @@
 
       <br>
       <ul class="skills cols-3">
-        <li>
-          <div>
-            <span class="skill-name">HTML</span>
-            <span class="skill-value">100%</span>
-          </div>
-          <div class="progress">
-            <div class="progress-bar" style="width: 100%;"></div>
-          </div>
-        </li>
-
-        <li>
-          <div>
-            <span class="skill-name">CSS</span>
-            <span class="skill-value">95%</span>
-          </div>
-          <div class="progress">
-            <div class="progress-bar" style="width: 95%;"></div>
-          </div>
-        </li>
-
-        <li>
-          <div>
-            <span class="skill-name">Javascript</span>
-            <span class="skill-value">80%</span>
-          </div>
-          <div class="progress">
-            <div class="progress-bar" style="width: 80%;"></div>
-          </div>
-        </li>
-
-        <li>
-          <div>
-            <span class="skill-name">Photoshop</span>
-            <span class="skill-value">60%</span>
-          </div>
-          <div class="progress">
-            <div class="progress-bar" style="width: 60%;"></div>
-          </div>
-        </li>
-
-        <li>
-          <div>
-            <span class="skill-name">ReactJS</span>
-            <span class="skill-value">70%</span>
-          </div>
-          <div class="progress">
-            <div class="progress-bar" style="width: 70%;"></div>
-          </div>
-        </li>
-
-        <li>
-          <div>
-            <span class="skill-name">Team work</span>
-            <span class="skill-value">90%</span>
-          </div>
-          <div class="progress">
-            <div class="progress-bar" style="width: 90%;"></div>
-          </div>
-        </li>
+        <base-skill-item v-for="(skill, key) in skills" :skill="skill" :key="key" />
       </ul>
 
     </div>
   </section>
 </template>
+
+<script>
+  import BaseSkillItem from '~/components/BaseSkillItem.vue'
+
+  import skills from '@/assets/content/skills'
+
+  export default {
+    components: {
+      BaseSkillItem
+    },
+    data () {
+      return {
+        skills
+      }
+    }
+  }
+</script>

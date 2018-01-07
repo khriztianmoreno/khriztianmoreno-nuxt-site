@@ -14,6 +14,7 @@
           <hr>
           <p class="lead">
             I'm a community leader and altruistic speaker, JavaScript/Node.js evangelist and Fullstack Javascript Developer.
+            Currently co-organize Medellin.js (Biggest JavaScript user group in Colombia), Avanet and Azure Cloud Medellin communities.
           </p>
           <p class="lead">
             I love develop things, especially ideas, giving them a perspective and causing them to shine!

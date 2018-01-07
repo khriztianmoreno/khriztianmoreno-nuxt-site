@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Software Engineering",
+    "degree": "Systems and Informatics Engineering",
+    "institute": "Systems and Informatics Engineering",
+    "years": "2007 - 2011",
+    "description": "The Colombian Polytechnic Jaime Isaza Cadavid is a public university institution, attached to the Departmental Government of Antioquia and founded in March 1964. It offers higher education at the technical, technological and professional levels through an offer of undergraduate and graduate academic programs in different areas of engineering, administration, agricultural sciences, audiovisual communication, sports and recreation.",
+    "image": "img/politecnicoJIC.jpg"
+  },
+  {
+    "title": "Software Technician",
+    "degree": "Professional Technique in Software Development",
+    "institute": "Servicion Nacional de Aprendizaje",
+    "years": "2009 - 2011",
+    "description": "The National Service of Learning by its acronym in Spanish (SENA) is a Colombian public institution responsible for giving programs of complementary and titled training. With the above, the technical training of human resources is sought; It trains people to link them to the labor market and carries out business, community and technological development activities.",
+    "image": "img/sena.png"
+  },
+  {
+    "title": "Bachelor",
+    "degree": "Technical Bachelor",
+    "institute": "Institución Educativa Concejo de Medellín",
+    "years": "2006",
+    "description": "The educational institution Concejo de Medellín, holistically forms its students at the pre-school, elementary, and middle levels based on the principles of human dignity, social and educational inclusion and knowledge development, through the promotion of human, technical values. , ecological, civic, ethical, sporting and cultural; from a critical and autonomous perspective that forms and transforms, contributing to the improvement of the quality of life of people and the context, counting on a suitable staff at the teaching, managerial and administrative levels and with a community with a high sense of belonging and commitment.",
+    "image": "img/iecm.jpeg"
+  }
+]

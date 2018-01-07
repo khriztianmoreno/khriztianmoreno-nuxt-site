@@ -21,6 +21,9 @@ module.exports = {
   modules: [
     '@nuxtjs/font-awesome'
   ],
+  router: {
+    linkActiveClass: 'active'
+  },
   /*
   ** Customize the progress bar color
   */

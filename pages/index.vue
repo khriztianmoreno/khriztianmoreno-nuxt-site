@@ -1,5 +1,5 @@
 <template>
-  <div  class="nav-on-header smart-nav">
+  <div class="nav-on-header smart-nav">
     <!-- Navigation bar -->
     <app-navigation />
     <!-- END Navigation bar -->
@@ -46,33 +46,33 @@
 </template>
 
 <script>
-import AppHeader from '~/components/AppHeader.vue'
-import AppNavigation from '~/components/AppNavigation.vue'
-import AppFooter from '~/components/AppFooter.vue'
-import BaseEducation from '~/components/BaseEducation.vue'
-import BaseSkills from '~/components/BaseSkills.vue'
-import BaseWorkExperience from '~/components/BaseWorkExperience.vue'
+  import AppHeader from '~/components/AppHeader.vue'
+  import AppNavigation from '~/components/AppNavigation.vue'
+  import AppFooter from '~/components/AppFooter.vue'
+  import BaseEducation from '~/components/BaseEducation.vue'
+  import BaseSkills from '~/components/BaseSkills.vue'
+  import BaseWorkExperience from '~/components/BaseWorkExperience.vue'
 
-export default {
-  components: {
-    AppHeader,
-    AppNavigation,
-    AppFooter,
-    BaseEducation,
-    BaseSkills,
-    BaseWorkExperience
-  },
-  mounted () {
+  export default {
+    components: {
+      AppHeader,
+      AppNavigation,
+      AppFooter,
+      BaseEducation,
+      BaseSkills,
+      BaseWorkExperience
+    },
+    mounted () {
 
-  },
-  methods: {
-    /* eslint-disable */
-    backToTop () {
-      $('#scroll-up').on( 'click', function() {
-        $('html, body').animate({scrollTop : 0}, 600)
-        return false
-      })
+    },
+    methods: {
+      /* eslint-disable */
+      backToTop () {
+        $('#scroll-up').on( 'click', function() {
+          $('html, body').animate({scrollTop : 0}, 600)
+          return false
+        })
+      }
     }
   }
-}
 </script>

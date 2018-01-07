@@ -22,10 +22,10 @@
       <!-- Navigation menu -->
       <ul class="nav-menu">
         <li>
-          <nuxt-link to="/" class="active" >Home</nuxt-link>
+          <nuxt-link to="/" exact>Home</nuxt-link>
         </li>
         <li>
-          <nuxt-link to="/" >Blog</nuxt-link>
+          <nuxt-link to="/blog" exact>Blog</nuxt-link>
         </li>
       </ul>
       <!-- END Navigation menu -->

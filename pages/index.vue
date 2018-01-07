@@ -1,58 +1,78 @@
 <template>
-  <section class="container">
-    <div>
-      <logo/>
-      <h1 class="title">
-        khriztianmoreno
-      </h1>
-      <h2 class="subtitle">
-        Personal website
-      </h2>
-      <div class="links">
-        <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
-        <a href="https://github.com/nuxt/nuxt.js" target="_blank" class="button--grey">GitHub</a>
-      </div>
-    </div>
-  </section>
+  <div  class="nav-on-header smart-nav">
+    <!-- Navigation bar -->
+    <app-navigation />
+    <!-- END Navigation bar -->
+
+
+    <!-- Page header -->
+    <app-header />
+    <!-- END Page header -->
+
+
+    <!-- Main container -->
+    <main>
+
+
+      <!-- Work Experience -->
+      <base-work-experience />
+      <!-- END Work Experience -->
+
+
+      <!-- Skills -->
+      <base-skills />
+      <!-- END Skills -->
+
+
+      <!-- Education -->
+      <base-education />
+      <!-- END Education -->
+
+
+    </main>
+    <!-- END Main container -->
+
+
+    <!-- Site footer -->
+    <app-footer />
+    <!-- END Site footer -->
+
+    <!-- Back to top button -->
+    <a id="scroll-up" href="#">
+      <i class="fa fa-angle-up"></i>
+    </a>
+    <!-- END Back to top button -->
+  </div>
 </template>
 
 <script>
-import Logo from '~/components/Logo.vue'
+import AppHeader from '~/components/AppHeader.vue'
+import AppNavigation from '~/components/AppNavigation.vue'
+import AppFooter from '~/components/AppFooter.vue'
+import BaseEducation from '~/components/BaseEducation.vue'
+import BaseSkills from '~/components/BaseSkills.vue'
+import BaseWorkExperience from '~/components/BaseWorkExperience.vue'
 
 export default {
   components: {
-    Logo
+    AppHeader,
+    AppNavigation,
+    AppFooter,
+    BaseEducation,
+    BaseSkills,
+    BaseWorkExperience
+  },
+  mounted () {
+
+  },
+  methods: {
+    /* eslint-disable */
+    backToTop () {
+      $('#scroll-up').on( 'click', function() {
+        $('html, body').animate({scrollTop : 0}, 600)
+        return false
+      })
+    }
   }
 }
 </script>
-
-<style>
-.container {
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.title {
-  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
-  display: block;
-  font-weight: 300;
-  font-size: 100px;
-  color: #35495e;
-  letter-spacing: 1px;
-}
-
-.subtitle {
-  font-weight: 300;
-  font-size: 42px;
-  color: #526488;
-  word-spacing: 5px;
-  padding-bottom: 15px;
-}
-
-.links {
-  padding-top: 15px;
-}
-</style>

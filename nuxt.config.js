@@ -3,16 +3,24 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'khriztianmoreno',
+    title: 'khriztianmoreno | FullStack Javascritp Developer',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Personal website' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' },
+      { rel: 'stylesheet', href: 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css' }
+    ],
+    script: [
+      { src: 'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js', type: 'text/javascript' }
     ]
   },
+
+  modules: [
+    '@nuxtjs/font-awesome'
+  ],
   /*
   ** Customize the progress bar color
   */

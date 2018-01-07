@@ -1,0 +1,90 @@
+[
+  {
+    "title": "FullStack Javascript Developer",
+    "company": "INplaza",
+    "logo": "img/inplaza.jpg",
+    "years": "Jan 2018 - Present",
+    "responsibilities": [
+      "Developed front-end for world-class online social viewing video and chat platform using xHTML, CSS, ActionScript 2-3, Javascript, and XML.",
+      "Developed built-in chat application into Flash video player in ActionScript 3.",
+      "Translate designs into responsive web interfaces"
+    ]
+  },
+  {
+    "title": "FrontEnd Developer",
+    "company": "Matter Supply",
+    "logo": "img/matterSupply.png",
+    "years": "Jul 2017 - Dec 2017",
+    "responsibilities": [
+      "Developed front-end for world-class online social viewing video and chat platform using xHTML, CSS, ActionScript 2-3, Javascript, and XML.",
+      "Developed built-in chat application into Flash video player in ActionScript 3.",
+      "Translate designs into responsive web interfaces"
+    ]
+  },
+  {
+    "title": "FullStack Developer",
+    "company": "Sapco",
+    "logo": "img/sapco.png",
+    "years": "Feb 2016 - Jul 2017",
+    "responsibilities": [
+      "Developed front-end for world-class online social viewing video and chat platform using xHTML, CSS, ActionScript 2-3, Javascript, and XML.",
+      "Developed built-in chat application into Flash video player in ActionScript 3.",
+      "Translate designs into responsive web interfaces"
+    ]
+  },
+  {
+    "title": "Meteor Developer",
+    "company": "Equitel",
+    "logo": "img/organizacion-equitel.png",
+    "years": "Nov 2014 - Feb 2016",
+    "responsibilities": [
+      "Developed front-end for world-class online social viewing video and chat platform using xHTML, CSS, ActionScript 2-3, Javascript, and XML.",
+      "Developed built-in chat application into Flash video player in ActionScript 3.",
+      "Translate designs into responsive web interfaces"
+    ]
+  },
+  {
+    "title": "UI Developer",
+    "company": "Globant",
+    "logo": "img/globant.png",
+    "years": "Nov 2013 - Nov 2014",
+    "responsibilities": [
+      "Developed front-end for world-class online social viewing video and chat platform using xHTML, CSS, ActionScript 2-3, Javascript, and XML.",
+      "Developed built-in chat application into Flash video player in ActionScript 3.",
+      "Translate designs into responsive web interfaces"
+    ]
+  },
+  {
+    "title": "Web Developer",
+    "company": "Intergrupo",
+    "logo": "img/intergrupo.png",
+    "years": "Dec 2012 - Nov 2013",
+    "responsibilities": [
+      "Developed front-end for world-class online social viewing video and chat platform using xHTML, CSS, ActionScript 2-3, Javascript, and XML.",
+      "Developed built-in chat application into Flash video player in ActionScript 3.",
+      "Translate designs into responsive web interfaces"
+    ]
+  },
+  {
+    "title": "Web Developer",
+    "company": "Pratech Group",
+    "logo": "img/pratech.png",
+    "years": "Aug 2012 - Nov 2012",
+    "responsibilities": [
+      "Developed front-end for world-class online social viewing video and chat platform using xHTML, CSS, ActionScript 2-3, Javascript, and XML.",
+      "Developed built-in chat application into Flash video player in ActionScript 3.",
+      "Translate designs into responsive web interfaces"
+    ]
+  },
+  {
+    "title": "Web Developer",
+    "company": "Gallup",
+    "logo": "img/gallup.png",
+    "years": "Feb 2011 - Aug 2012",
+    "responsibilities": [
+      "Developed front-end for world-class online social viewing video and chat platform using xHTML, CSS, ActionScript 2-3, Javascript, and XML.",
+      "Developed built-in chat application into Flash video player in ActionScript 3.",
+      "Translate designs into responsive web interfaces"
+    ]
+  }
+]

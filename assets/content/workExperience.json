@@ -5,31 +5,40 @@
     "logo": "img/inplaza.jpg",
     "years": "Jan 2018 - Present",
     "responsibilities": [
-      "Developed front-end for world-class online social viewing video and chat platform using xHTML, CSS, ActionScript 2-3, Javascript, and XML.",
-      "Developed built-in chat application into Flash video player in ActionScript 3.",
-      "Translate designs into responsive web interfaces"
+      "Creation a Javascript based REST API that was used to connect mobile and web clients",
+      "Creation of different reusable React components",
+      ".."
     ]
   },
   {
-    "title": "FrontEnd Developer",
+    "title": "Senior Technologist Web",
     "company": "Matter Supply",
     "logo": "img/matterSupply.png",
     "years": "Jul 2017 - Dec 2017",
     "responsibilities": [
-      "Developed front-end for world-class online social viewing video and chat platform using xHTML, CSS, ActionScript 2-3, Javascript, and XML.",
-      "Developed built-in chat application into Flash video player in ActionScript 3.",
-      "Translate designs into responsive web interfaces"
+      "Translate comps and wireframes into semantically correct web templates",
+      "Cross-platform cross-browser development",
+      "Design and implementation of software solutions",
+      "Responsible for all aspects of presentation layer development including developing templates using HTML, Javascript and CSS",
+      "Creation of Airplane Configurator that allows aircraft designers to create, save and share their perfect build to create amazing designs"
     ]
   },
   {
-    "title": "FullStack Developer",
+    "title": "Technical leader",
     "company": "Sapco",
     "logo": "img/sapco.png",
     "years": "Feb 2016 - Jul 2017",
     "responsibilities": [
-      "Developed front-end for world-class online social viewing video and chat platform using xHTML, CSS, ActionScript 2-3, Javascript, and XML.",
-      "Developed built-in chat application into Flash video player in ActionScript 3.",
-      "Translate designs into responsive web interfaces"
+      "Best practices and project guidelines definitions",
+      "Creation a Javascript based REST API that was used to connect mobile, web clients and physical device",
+      "Develop of an angular platform to manage the process the car diagnostic centers",
+      "Automate deployments in QA and Production environments",
+      "Technical interviewing",
+      "Make key decisions about how the web projects should be developed",
+      "Mentoring",
+      "Interaction with clients to gather requirements and set real expectations",
+      "Technical leadership",
+      "Established a git workflow to improve productivity across the team"
     ]
   },
   {
@@ -38,9 +47,10 @@
     "logo": "img/organizacion-equitel.png",
     "years": "Nov 2014 - Feb 2016",
     "responsibilities": [
-      "Developed front-end for world-class online social viewing video and chat platform using xHTML, CSS, ActionScript 2-3, Javascript, and XML.",
-      "Developed built-in chat application into Flash video player in ActionScript 3.",
-      "Translate designs into responsive web interfaces"
+      "Design and implementation of software solutions",
+      "Contribute in the software solutions documentation",
+      "Promote and contribute in the realization of software architecture goals",
+      "Collaboration with the graphic designer on the front-end aspect of development"
     ]
   },
   {
@@ -49,20 +59,24 @@
     "logo": "img/globant.png",
     "years": "Nov 2013 - Nov 2014",
     "responsibilities": [
-      "Developed front-end for world-class online social viewing video and chat platform using xHTML, CSS, ActionScript 2-3, Javascript, and XML.",
-      "Developed built-in chat application into Flash video player in ActionScript 3.",
-      "Translate designs into responsive web interfaces"
+      "Translate designs into responsive web interfaces",
+      "Collaboration with the graphic designer on the front-end aspect of development",
+      "Cross-platform cross-browser development",
+      "Some back-end development in collaboration with senior developer"
     ]
   },
   {
-    "title": "Web Developer",
+    "title": "Software Engineering",
     "company": "Intergrupo",
     "logo": "img/intergrupo.png",
     "years": "Dec 2012 - Nov 2013",
     "responsibilities": [
-      "Developed front-end for world-class online social viewing video and chat platform using xHTML, CSS, ActionScript 2-3, Javascript, and XML.",
-      "Developed built-in chat application into Flash video player in ActionScript 3.",
-      "Translate designs into responsive web interfaces"
+      "Work as a part of a large team on a major corporate project",
+      "Collaboration with the graphic designer on the front-end aspect of development",
+      "Creation of web portals for different clients using Microsoft SharePoint",
+      "Responsible for all aspects of presentation layer development including developing templates using HTML, Javascript, XML, and XSL",
+      "Mentoring in agile methodologies",
+      "Creation of different reusable Microsoft SharePoint components on a company wide component library"
     ]
   },
   {
@@ -71,9 +85,9 @@
     "logo": "img/pratech.png",
     "years": "Aug 2012 - Nov 2012",
     "responsibilities": [
-      "Developed front-end for world-class online social viewing video and chat platform using xHTML, CSS, ActionScript 2-3, Javascript, and XML.",
-      "Developed built-in chat application into Flash video player in ActionScript 3.",
-      "Translate designs into responsive web interfaces"
+      "Creation of a platform for insurance company which allows the loyalty of new clients",
+      "Project scope definition",
+      "Creation of different reusable web components on a company wide component library"
     ]
   },
   {
@@ -82,9 +96,12 @@
     "logo": "img/gallup.png",
     "years": "Feb 2011 - Aug 2012",
     "responsibilities": [
-      "Developed front-end for world-class online social viewing video and chat platform using xHTML, CSS, ActionScript 2-3, Javascript, and XML.",
-      "Developed built-in chat application into Flash video player in ActionScript 3.",
-      "Translate designs into responsive web interfaces"
+      "Develop of multiple dashboards for the business research industry",
+      "Rapid-prototyping for usability studies and new business development",
+      "Interaction with clients to gather requirements and set real expectations",
+      "Best practices and project guidelines definitions",
+      "Project scope definition",
+      "Technical interviewing"
     ]
   }
 ]

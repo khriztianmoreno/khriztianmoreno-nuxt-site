@@ -13,7 +13,7 @@
         <p>Responsibilities:</p>
         <ul>
           <li v-for="(responsibility, key) in work.responsibilities" :key="key">
-            {{ responsibility }}
+            {{ responsibility }}.
           </li>
         </ul>
       </div>

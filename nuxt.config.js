@@ -1,3 +1,4 @@
+const axios = require('axios')
 const bodyParser = require('body-parser')
 
 module.exports = {
@@ -52,6 +53,19 @@ module.exports = {
           exclude: /(node_modules)/
         })
       }
+    }
+  },
+  generate: {
+    routes: function () {
+      return axios.get('api/medium')
+        .then((res) => {
+          const { data } = res
+          const posts = data.payload.references.Post
+          return {
+            route: '/blog',
+            payload: posts
+          }
+        })
     }
   }
 }

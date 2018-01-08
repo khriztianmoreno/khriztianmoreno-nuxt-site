@@ -72,8 +72,7 @@
         <base-network-social />
 
         <div class="action-buttons">
-          <a class="btn btn-gray" href="#">Download CV</a>
-          <a class="btn btn-success" data-toggle="modal" data-target="#modal-contact" href="#">Contact me</a>
+          <a class="btn btn-gray" href="https://1drv.ms/b/s!AiuX803moV_ZhPJA608xYjsELs21OA" target="_blank">Download CV</a>
         </div>
       </div>
     </div>

@@ -59,6 +59,9 @@
     data () {
       return { posts: [] }
     },
+    async asyncData ({ params, error, payload }) {
+      if (payload) return { posts: payload }
+    },
     async mounted () {
       this.backToTop()
       const { data } = await axios.get('api/medium')

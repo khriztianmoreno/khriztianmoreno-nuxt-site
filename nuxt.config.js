@@ -54,18 +54,5 @@ module.exports = {
         })
       }
     }
-  },
-  generate: {
-    routes: function () {
-      return axios.get('api/medium')
-        .then((res) => {
-          const { data } = res
-          const posts = data.payload.references.Post
-          return {
-            route: '/blog',
-            payload: posts
-          }
-        })
-    }
   }
 }

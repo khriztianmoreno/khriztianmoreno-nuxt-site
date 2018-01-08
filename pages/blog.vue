@@ -42,12 +42,12 @@
 </template>
 
 <script>
-  import axios from 'axios'
-
   import AppHeader from '~/components/AppHeader.vue'
   import AppNavigation from '~/components/AppNavigation.vue'
   import AppFooter from '~/components/AppFooter.vue'
   import BasePost from '~/components/BasePost.vue'
+
+  import posts from '@/assets/content/posts'
 
   export default {
     components: {
@@ -57,16 +57,10 @@
       BasePost
     },
     data () {
-      return { posts: [] }
+      return { posts }
     },
-    async asyncData ({ params, error, payload }) {
-      if (payload) return { posts: payload }
-    },
-    async mounted () {
+    mounted () {
       this.backToTop()
-      const { data } = await axios.get('api/medium')
-      const posts = data.payload.references.Post
-      this.posts = posts
     },
     methods: {
       /* eslint-disable */

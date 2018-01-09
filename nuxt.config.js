@@ -1,4 +1,3 @@
-const axios = require('axios')
 const bodyParser = require('body-parser')
 
 module.exports = {
@@ -10,7 +9,8 @@ module.exports = {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Personal website' }
+      { hid: 'description', name: 'description', content: 'I am a community leader and altruistic speaker, JavaScript/Node.js evangelist and Fullstack Javascript Developer.' },
+      { hid: 'keywords', name: 'keywords', content: 'Developer, Javascript Developer, Freelance, Colombia, Medellin, VueJS, ReactJS, NodeJS, ExpressJS, Frontend developer, web developer' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' },

@@ -17,9 +17,8 @@
             Currently co-organize Medellin.js (Biggest JavaScript user group in Colombia), Avanet and Azure Cloud Medellin communities.
           </p>
           <p class="lead">
-            I love develop things, especially ideas, giving them a perspective and causing them to shine!
-            products and applications comes later when I pass ideas into code, I'm passionate about software development
-            and related stuff.
+            I love developing things, especially ideas, giving them a new perspective and making them shine! products and applications
+            come after I transform ideas into code; I'm passionate about software development and related stuff.
           </p>
 
           <ul class="details cols-2">

@@ -29,7 +29,7 @@
 
             <li>
               <i class="fa fa-globe"></i>
-              <a href="http://www.khriztianmoreno.com">khriztianmoreno.com</a>
+              <a href="//www.khriztianmoreno.com">khriztianmoreno.com</a>
             </li>
 
             <li>

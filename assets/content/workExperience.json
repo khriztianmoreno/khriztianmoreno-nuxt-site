@@ -3,11 +3,12 @@
     "title": "FullStack Javascript Developer",
     "company": "INplaza",
     "logo": "img/inplaza.jpg",
-    "years": "Jan 2018 - Present",
+    "years": "Jan 2018 - Aug 2018",
     "responsibilities": [
       "Creation a Javascript based REST API that was used to connect mobile and web clients",
       "Creation of different reusable React components",
-      ".."
+      "Make key decisions about how the web projects should be developed",
+      "Mentoring"
     ]
   },
   {

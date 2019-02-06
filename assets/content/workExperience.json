@@ -1,5 +1,18 @@
 [
   {
+    "title": "Senior Technologist Web",
+    "company": "Matter Supply",
+    "logo": "img/matterSupply.png",
+    "years": "Aug 2018 - Current",
+    "responsibilities": [
+      "Translate comps and wireframes into semantically correct web templates",
+      "Cross-platform cross-browser development",
+      "Design and implementation of software solutions",
+      "Responsible for all aspects of presentation layer development including developing templates using HTML, Javascript and CSS",
+      "..."
+    ]
+  },
+  {
     "title": "FullStack Javascript Developer",
     "company": "INplaza",
     "logo": "img/inplaza.jpg",
@@ -13,15 +26,15 @@
   },
   {
     "title": "Senior Technologist Web",
-    "company": "Matter Supply",
-    "logo": "img/matterSupply.png",
+    "company": "Pacific x Northwest",
+    "logo": "img/pxnw.png",
     "years": "Jul 2017 - Dec 2017",
     "responsibilities": [
-      "Translate comps and wireframes into semantically correct web templates",
+      "Creation of Airplane Configurator that allows aircraft designers to create, save and share their perfect build to create amazing designs",
       "Cross-platform cross-browser development",
-      "Design and implementation of software solutions",
+      "Translate comps and wireframes into semantically correct web templates",
       "Responsible for all aspects of presentation layer development including developing templates using HTML, Javascript and CSS",
-      "Creation of Airplane Configurator that allows aircraft designers to create, save and share their perfect build to create amazing designs"
+      "Design and implementation of software solutions"
     ]
   },
   {

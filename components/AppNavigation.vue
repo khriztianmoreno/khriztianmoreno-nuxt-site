@@ -25,7 +25,7 @@
           <nuxt-link to="/" exact>Home</nuxt-link>
         </li>
         <li>
-          <nuxt-link to="/blog" exact>Blog</nuxt-link>
+          <a href="https://medium.com/@khriztianmoreno" target="_blank">Blog</a>
         </li>
       </ul>
       <!-- END Navigation menu -->

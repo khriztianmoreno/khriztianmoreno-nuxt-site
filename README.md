@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bc331c86-d953-494c-baa4-6a2f9b850658/deploy-status)](https://app.netlify.com/sites/goofy-jepsen-3ea2ec/deploys)
+
 # khriztianmoreno
 
 > Personal website

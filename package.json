@@ -14,7 +14,7 @@
     "deploy": "push-dir --dir=dist --branch=master --verbose"
   },
   "dependencies": {
-    "@nuxtjs/font-awesome": "1.0.3",
+    "@nuxtjs/font-awesome": "1.0.4",
     "axios": "0.18.1",
     "body-parser": "1.18.3",
     "express": "4.16.3",

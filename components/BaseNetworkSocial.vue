@@ -11,13 +11,18 @@
       </a>
     </li>
     <li>
-      <a class="facebook" href="https://www.facebook.com/khriztianmoreno" target="_blank">
-        <i class="fa fa-facebook"></i>
+      <a class="youtube" href="https://www.youtube.com/khriztianmoreno" target="_blank">
+        <i class="fa fa-youtube"></i>
       </a>
     </li>
     <li>
       <a class="twitter" href="https://twitter.com/khriztianmoreno" target="_blank">
         <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook" href="https://www.facebook.com/khriztianmoreno" target="_blank">
+        <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>

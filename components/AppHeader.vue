@@ -39,7 +39,7 @@
 
             <li>
               <i class="fa fa-birthday-cake"></i>
-              <span>28 years-old</span>
+              <span>{{ yearsOld }} years-old</span>
             </li>
 
             <li>
@@ -79,10 +79,17 @@
 </template>
 
 <script>
+  import moment from 'moment'
   import BaseNetworkSocial from '~/components/BaseNetworkSocial.vue'
+
   export default {
     components: {
       BaseNetworkSocial
+    },
+    computed: {
+      yearsOld: function () {
+        return moment().diff('1989-09-18', 'years', false)
+      }
     }
   }
 </script>

@@ -71,7 +71,7 @@
         <base-network-social />
 
         <div class="action-buttons">
-          <a class="btn btn-gray" href="https://1drv.ms/b/s!AiuX803moV_ZhPJA608xYjsELs21OA" target="_blank">Download CV</a>
+          <a class="btn btn-gray" href="https://res.cloudinary.com/khriztianmoreno/image/upload/v1611186445/cv_cristian/CV_Cristian.pdf" target="_blank">Download CV</a>
         </div>
       </div>
     </div>

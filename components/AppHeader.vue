@@ -34,7 +34,7 @@
 
             <li>
               <i class="fa fa-money"></i>
-              <span>$35 / hour</span>
+              <span>$60 / hour</span>
             </li>
 
             <li>
